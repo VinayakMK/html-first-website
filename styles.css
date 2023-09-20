@@ -1,0 +1,87 @@
+body{
+    background-color:white;
+}
+h1{
+    font-family: verdana;
+    margin-top: 50px;
+    margin-left: 600px;
+    text-decoration: underline;
+    font-style: italic;
+    color: blue;
+}
+h2{
+    margin-left: 100px;
+    margin-top: 50px;
+    text-align: center;
+    font-family: verdana;
+    text-decoration: underline;
+    color:crimson;
+}
+div{
+    
+    margin-left: 100px;
+    margin-top: 50px;
+    width: 1325px;
+    height: 250px;
+    border: 5px solid;
+    float: left;
+}
+.a{
+    padding-left: 25px;
+    padding-top: 30px;
+    background-color:lightblue;
+}
+p{
+    text-align: left;
+    margin-left: 350px;
+    margin-top: -190px;
+}
+h3{
+    font-family: verdana;
+    margin-left: 350px;
+    margin-top: -140px;
+    text-decoration: underline;
+}
+.b{
+    padding-left: 25px;
+    padding-top: 30px;
+    background-color:lightgreen;
+}
+video{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+#video{
+    margin-left: 650px;
+    margin-top: -290px;
+}
+#para1{
+    margin-left: 650px ;
+    margin-top: -5px;
+}
+.hclass1{
+    color: black;
+    text-align: left;
+    margin-top: 70px;
+}
+button{
+    margin-left: 600px;
+    margin-top: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.button{
+    margin-left: 1120px;
+    margin-top: 125px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#para2{
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 250px;
+}

@@ -1,0 +1,20 @@
+body{
+    background-color: blue;
+}
+div{
+    margin-right: 100px;
+    margin-top: 50px;
+    width: 500px;
+    height: 600px;
+    border: 5px solid;
+    float: right;
+}
+.login1{
+    color:rgb(57, 175, 214);
+    background-color: lightblue;
+}
+h1{
+    color: blue;
+    margin-left: 20px;
+    font-family: Verdana;
+}
